@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ashe
-🎮 Aspiring game developer focused on Unreal-based RPGs  
+🎮 Aspiring game developer focused on Unreal-based RPGs
 💻 Currently studying Computer Science  
 🛠️ Learning Python, C++, C#, Unreal Engine | Blueprint, Unity  
 🎮 I enjoy large-scale RPGs, simulators, roguelikes, and more
