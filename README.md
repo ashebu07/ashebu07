@@ -14,6 +14,6 @@
 
 ---
 
->>> Even if a game is made of code,  
->>> for someone, it might change their life.  
->>> I want to be the kind of developer who creates those moments.
+> Even if a game is made of code,  
+> for someone, it might change their life.  
+> I want to be the kind of developer who creates those moments.
