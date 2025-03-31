@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Ashe
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/12345678/my-banner.png](https://github.com/user-attachments/assets/07bbae32-7a5d-4531-958c-775383b2ec4e)" width="600" />
+</p>
 
 🧙‍♀️ Aspiring game developer focused on Unreal-based RPGs  
 💻 Currently studying Computer Science  
