@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07bbae32-7a5d-4531-958c-775383b2ec4e" width="600" />
+  <img src="https://github.com/user-attachments/assets/f5e8a6c6-f8ed-44eb-a508-4d89880acc93" />
 </p>
 
 🧙‍♀️ Aspiring game developer focused on Unreal-based RPGs  
